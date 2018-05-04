@@ -8,7 +8,6 @@ My_ROI::My_ROI()
 {
 	upper_corner = Point(0, 0);
 	lower_corner = Point(0, 0);
-
 }
 
 My_ROI::My_ROI(Point u_corner, Point l_corner, Mat src) 
